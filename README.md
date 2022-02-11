@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @invoker999
-- 👀 I’m interested in robotics
+- 👀 I’m interested in robotics and AI
 - 🌱 I’m currently on the path of the self-learning CS open source university (OSSU)
-- 💞️ I’m looking to collaborate on 
+- 💞️ I'm looking to collaborate on robotics and AI projects for beginners.
 - 📫 How to reach me Kaced.sofiane@protonmail.com
 
 <!---
